@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hi! My name is Hao Ding, but you can also call me Grey. I'm a student at Rensselaer Polytechnic Institute.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
