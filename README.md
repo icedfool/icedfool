@@ -30,7 +30,7 @@
 
 <a href="https://github.com/icedfool">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=icedfool"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedfool&theme=buefy&layout=compact" />
 </a>
 
 <br/>
