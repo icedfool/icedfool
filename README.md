@@ -1,5 +1,5 @@
 
-<h2> Hi! My name is Hao Ding, but you can also call me Grey.</h2>
+<h2> Hi! This is Grey Ding.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
