@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/greyd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/Grey__D"><img alt="Twitter" src="[https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram]"></a>
+<a href="https://twitter.com/Grey__D"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGrey__D"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
