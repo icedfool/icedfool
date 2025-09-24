@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 💼 &nbsp; Working as a technical artist at Electronic Arts Shanghai
 - 🤔 &nbsp; Exploring new technologies and developing software developing skills.
-- 🎓 &nbsp; finished B.S. Computer Science and Mathematics(dual major) at Rensselaer Polytechnic Institute.
-- 💼 &nbsp; Working as a intern at Shanghai Morong Technology Co., Ltd before.
+- 🎓 &nbsp; Finished B.S. in Computer Science and Mathematics(dual major) at Rensselaer Polytechnic Institute.
 - 🌱 &nbsp; Learning more about game developing, backend development and frontend development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
